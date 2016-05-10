@@ -1,3 +1,3 @@
 # Introduction to RxJS
 
-And introduction to RxJs
+And introduction to RxJs.
