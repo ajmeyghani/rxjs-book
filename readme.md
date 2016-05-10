@@ -1,3 +1,3 @@
-# Flexbox
+# Introduction to RxJS
 
-Learn how to create beautiful layouts with Flexbox
+And introduction to RxJs
